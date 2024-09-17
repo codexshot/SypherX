@@ -1,0 +1,32 @@
+const String dbExploreId = 'explore_id';
+const String dbRating = 'rating';
+const String dbTotalRatingCount = 'total_rating_count';
+const String dbExploreRating = 'explore_rating';
+const String dbId = 'id';
+const String dbCollabType = 'collab_type';
+const String dbCategory = 'category';
+const String dbTitle = 'title';
+const String dbDescription = 'description';
+const String dbLocation = 'location';
+const String dbTrailerVideo = 'trailer_video';
+const String dbConnectedGroup = 'connected_group';
+const String dbTags = 'tags';
+const String dbIsFree = 'is_Free';
+const String dbPrice = 'price';
+const String dbLatestReviews = 'latest_reviews';
+const String dbTotalReviewsCount = 'total_reviews_count';
+const String dbCreatorInfo = 'creator_info';
+const String dbUnits = 'units';
+const String dbQuizzes = 'quizzes';
+const String dbName = 'name';
+const String dbParentId = 'parent_id';
+const String dbCreatedAt = 'created_at';
+const String dbUpdatedOn = 'updated_on';
+const String dbUsedByNumberOfTimes = 'used_by_number_of_times';
+const String dbStatus = 'status';
+const String dbErrorMessage = 'error';
+const String dbIsPromoted = 'is_Promoted';
+
+// Path: directory constants
+const String directoryExploreDraft = 'explore-draft';
+const String dbBuyers = 'buyers';
